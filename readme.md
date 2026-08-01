@@ -1,4 +1,4 @@
-# LSTM-EWMA Anomaly Detection for Surgical Count Data
+# LSTM-EWMA Anomaly Detection for DNA sequencing Data
 
 ## Project Structure
 
